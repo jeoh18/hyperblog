@@ -5,3 +5,5 @@ Aprendiendo git
 Colombiano, viviendo en Medellín.
 
 Con 37 años de edad.
+
+Estado civil: Casado con una hermosa hija.
